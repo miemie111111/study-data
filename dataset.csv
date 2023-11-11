@@ -9,8 +9,8 @@ Age group,Sex,Year,Monthly income
 40 - 49,Male,2011,15700
 50 - 59,Female,2011,8500
 50 - 59,Male,2011,13000
-¨R 60,Female,2011,6900
-¨R 60,Male,2011,10000
+¨>= 60,Female,2011,6900
+¨>= 60,Male,2011,10000
 15 - 19,Female,2012,5300
 15 - 19,Male,2012,6500
 20 - 29,Female,2012,11000
@@ -21,8 +21,8 @@ Age group,Sex,Year,Monthly income
 40 - 49,Male,2012,17500
 50 - 59,Female,2012,9000
 50 - 59,Male,2012,15000
-¨R 60,Female,2012,7300
-¨R 60,Male,2012,10500
+¨>= 60,Female,2012,7300
+¨>= 60,Male,2012,10500
 15 - 19,Female,2013,4000
 15 - 19,Male,2013,6000
 20 - 29,Female,2013,11000
@@ -33,8 +33,8 @@ Age group,Sex,Year,Monthly income
 40 - 49,Male,2013,19300
 50 - 59,Female,2013,10000
 50 - 59,Male,2013,15000
-¨R 60,Female,2013,7500
-¨R 60,Male,2013,11000
+¨>= 60,Female,2013,7500
+¨>= 60,Male,2013,11000
 15 - 19,Female,2014,3700
 15 - 19,Male,2014,5100
 20 - 29,Female,2014,12000
@@ -45,8 +45,8 @@ Age group,Sex,Year,Monthly income
 40 - 49,Male,2014,20000
 50 - 59,Female,2014,10400
 50 - 59,Male,2014,16000
-¨R 60,Female,2014,8000
-¨R 60,Male,2014,12000
+¨>= 60,Female,2014,8000
+¨>= 60,Male,2014,12000
 15 - 19,Female,2015,3000
 15 - 19,Male,2015,5500
 20 - 29,Female,2015,12500
@@ -57,8 +57,8 @@ Age group,Sex,Year,Monthly income
 40 - 49,Male,2015,20000
 50 - 59,Female,2015,11000
 50 - 59,Male,2015,17500
-¨R 60,Female,2015,8300
-¨R 60,Male,2015,12000
+¨>= 60,Female,2015,8300
+¨>= 60,Male,2015,12000
 15 - 19,Female,2016,3000
 15 - 19,Male,2016,5500
 20 - 29,Female,2016,13000
@@ -69,8 +69,8 @@ Age group,Sex,Year,Monthly income
 40 - 49,Male,2016,21300
 50 - 59,Female,2016,12000
 50 - 59,Male,2016,19000
-¨R 60,Female,2016,8700
-¨R 60,Male,2016,13000
+¨>= 60,Female,2016,8700
+¨>= 60,Male,2016,13000
 15 - 19,Female,2017,3000
 15 - 19,Male,2017,5300
 20 - 29,Female,2017,14000
@@ -81,8 +81,8 @@ Age group,Sex,Year,Monthly income
 40 - 49,Male,2017,23000
 50 - 59,Female,2017,13000
 50 - 59,Male,2017,20000
-¨R 60,Female,2017,9000
-¨R 60,Male,2017,14000
+¨>= 60,Female,2017,9000
+¨>= 60,Male,2017,14000
 15 - 19,Female,2018,3000
 15 - 19,Male,2018,4000
 20 - 29,Female,2018,15000
@@ -93,8 +93,8 @@ Age group,Sex,Year,Monthly income
 40 - 49,Male,2018,25000
 50 - 59,Female,2018,14000
 50 - 59,Male,2018,20000
-¨R 60,Female,2018,10000
-¨R 60,Male,2018,15000
+¨>= 60,Female,2018,10000
+¨>= 60,Male,2018,15000
 15 - 19,Female,2019,3400
 15 - 19,Male,2019,5000
 20 - 29,Female,2019,15700
@@ -105,8 +105,8 @@ Age group,Sex,Year,Monthly income
 40 - 49,Male,2019,25000
 50 - 59,Female,2019,14800
 50 - 59,Male,2019,20000
-¨R 60,Female,2019,10300
-¨R 60,Male,2019,15000
+¨>= 60,Female,2019,10300
+¨>= 60,Male,2019,15000
 15 - 19,Female,2020,3000
 15 - 19,Male,2020,6000
 20 - 29,Female,2020,16000
@@ -117,8 +117,8 @@ Age group,Sex,Year,Monthly income
 40 - 49,Male,2020,25000
 50 - 59,Female,2020,15000
 50 - 59,Male,2020,20000
-¨R 60,Female,2020,10800
-¨R 60,Male,2020,15000
+¨>= 60,Female,2020,10800
+¨>= 60,Male,2020,15000
 15 - 19,Female,2021,3400
 15 - 19,Male,2021,5000
 20 - 29,Female,2021,16500
@@ -129,5 +129,5 @@ Age group,Sex,Year,Monthly income
 40 - 49,Male,2021,25000
 50 - 59,Female,2021,15000
 50 - 59,Male,2021,20500
-¨R 60,Female,2021,11000
-¨R 60,Male,2021,15000
+¨>= 60,Female,2021,11000
+¨>= 60,Male,2021,15000
